@@ -1,5 +1,5 @@
 # WCAG 2.0
-Great easy to read WCAG 2.0 Techniques.
+Web Content Accessibility Guidelines (WCAG) 2.0 covers a wide range of recommendations for making Web content more accessible. Great easy to read WCAG 2.0 Techniques.
 
 ## Form Controls
 
